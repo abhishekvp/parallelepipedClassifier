@@ -1,0 +1,6 @@
+1 0 128 0 Forest
+2 0 255 255 Water Bodies
+3 255 255 255 Clouds
+4 64 0 0 shadows
+5 255 255 128 Settlements
+6 0 0 0 
