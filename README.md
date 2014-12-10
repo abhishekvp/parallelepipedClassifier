@@ -22,5 +22,5 @@ Classification Result
 
 References:
 -----------
-* The Parallelepiped Classifier Concept and Java Implementation          
+* Parallelepiped Classifier Concept and Java Implementation          
   http://www.lac.inpe.br/JIPCookbook/7020-tutorial-supervisedclassification.jsp#tutorialsabrieftutorialonsupervisedimageclassificationtheparallelepipedclassifier
