@@ -1,8 +1,8 @@
 Parallelepiped Classifier Web Application for Image Classification
 ------------------------------------------------------------------
-The WebApp is written in PHP and Java. It makes use of HTML5 Canvas to interactively help the user create the Sample Data File.
+Parallelepiped Classifier uses a Supervised Classification approach. So it requires training data to be able to classify pixels into classes. This WebApp is written in PHP and Java. It makes use of HTML5 Canvas to interactively help the user create the Training Data File(Sample Data File).
 
-PHP is used to upload the input image, create the sample  data file and finally render the classified image. Java is used to create the Signature File and process the image using that file to generate the classified output image.
+PHP is used to upload the input image, create the Training Data File(Sample Data File) and finally render the classified image. A java program(used as jar) is used to create a Signature File from the Training Data File and process the image using that file to generate the classified output image.
 
 Requirements to deploy the application:
 * JDK
