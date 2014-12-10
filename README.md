@@ -20,6 +20,7 @@ Training Data Creation
 ![Classification Result](https://raw.github.com/abhishekvp/parallelepipedClassifier/master/Screenshots/ClassifiedImage.png)
 Classification Result
 
-References: 
+References:
+-----------
 * The Parallelepiped Classifier Concept and Java Implementation          
   http://www.lac.inpe.br/JIPCookbook/7020-tutorial-supervisedclassification.jsp#tutorialsabrieftutorialonsupervisedimageclassificationtheparallelepipedclassifier
