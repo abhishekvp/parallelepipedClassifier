@@ -1,4 +1,4 @@
-Parallelepiped Classifier Web Application for Image Classification
+Parallelepiped Classifier Web Application for Satellite Image Classification
 ------------------------------------------------------------------
 Parallelepiped Classifier uses a Supervised Classification approach. So it requires training data to be able to classify pixels into classes. This WebApp is written in PHP and Java. It makes use of HTML5 Canvas to interactively help the user create the Training Data File(Sample Data File).
 
