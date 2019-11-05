@@ -14,7 +14,7 @@ Screenshots:
 ![Main Page](https://raw.github.com/abhishekvp/parallelepipedClassifier/master/Screenshots/Main.png)
 Main Page
 
-![Training Data Creation](https://raw.github.com/abhishekvp/parallelepipedClassifier/master/Screenshots/TrainingData Creation.png)
+![Training Data Creation](https://raw.github.com/abhishekvp/parallelepipedClassifier/master/Screenshots/TrainingData%20Creation.png)
 Training Data Creation
 
 ![Classification Result](https://raw.github.com/abhishekvp/parallelepipedClassifier/master/Screenshots/ClassifiedImage.png)
